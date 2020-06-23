@@ -1,5 +1,5 @@
-echo "Avatansh Awasthi"
-echo "1947208"
+echo "Name:Avatansh Awasthi"
+echo "Roll No:1947208"
 
 echo "Menu driven shell script program to demonstrate grep"
 
